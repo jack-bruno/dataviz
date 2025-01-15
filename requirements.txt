@@ -1,0 +1,8 @@
+geopandas
+fiona
+shapely
+pyproj
+rtree
+matplotlib
+seaborn
+pandas
