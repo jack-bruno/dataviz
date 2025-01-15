@@ -6,3 +6,4 @@ rtree
 matplotlib
 seaborn
 pandas
+joblib
